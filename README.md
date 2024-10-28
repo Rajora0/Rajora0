@@ -2,7 +2,7 @@
 
 ### Welcome to my profile on GitHub!
 
-Graduated in Bachelor of Physics from the Federal University of Itajubá (2021), studying a postgraduate degree in Data Science and Big Data from the Pontifical Catholic University of Minas Gerais (2022). He is currently a Data Scientist at the company ZENVIA where he works with machine learning and natural language. He has experience in the field of Data Science, with an emphasis on machine learning applications, big data analysis and cloud applications. He has worked with computer vision and applied neural networks in astronomy.
+Graduated with a Bachelor of Physics from the Federal University of Itajubá (UNIFEI) in 2021 and completed a postgraduate degree in Data Science and Big Data from the Pontifical Catholic University of Minas Gerais (PUC Minas) in 2022.  I am currently a Data Scientist at ZENVIA, where I work with machine learning, deep learning, and natural language processing.  My experience in Data Science encompasses machine learning applications, big data analysis, cloud applications, computer vision, and the application of neural networks in astronomy.  I am also currently pursuing a Master's degree in Astrophysics with a focus on Data Science.
 
 
 <h2 style="text-align: justify;margin: 5px 200px 0 200px;float: center;display:block-inline">
@@ -20,6 +20,9 @@ Graduated in Bachelor of Physics from the Federal University of Itajubá (2021),
 * 🧠 Deep Learning 
 * 📈 Data Science
 * 🐍 Python
+* 🌌 Astrophysics (currently pursuing Master's degree)
+
+
 
 <!--
 **Rajora0/rajora0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
